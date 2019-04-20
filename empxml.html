@@ -18,11 +18,10 @@
             success: function(xml) {  
              $(xml).find('data').each(function(){  
               t.row.add( [
-                $(this).find('name').text(),
+                $(this).find('fname').text(),
+                $(this).find('lname').text(),
+                $(this).find('gender').text(),
                 $(this).find('designation').text(),
-                $(this).find('office').text(),
-                $(this).find('extension').text(),
-                $(this).find('joining_date').text(),
                 $(this).find('salary').text()
               ] ).draw( false );
              });
@@ -36,22 +35,20 @@
   <table id="chart" class="display" cellspacing="0" width="100%">
     <thead>
         <tr>
-            <th>Name</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Gender</th>
             <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
             <th>Salary</th>
         </tr>
     </thead>
 
     <tfoot>
         <tr>
-            <th>Name</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Gender</th>
             <th>Designation</th>
-            <th>Office</th>
-            <th>Extension</th>
-            <th>Joining Date</th>
             <th>Salary</th>
         </tr>
     </tfoot>
