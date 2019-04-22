@@ -1,108 +1,139 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-    <employees>
+    <student>
         <data>
-            <fname>Armando</fname>
-            <lname>Rivers</lname>
-            <gender>female</gender>
-            <designation>Sales Support</designation>
-            <salary>$74,299</salary>
+            <SUID>400000</SUID>
+            <name>Rachael Mccray</name>
+            <dob>1986-01-25</dob>
+            <program>PMBA</program>
+            <course>ECON5100</course>
+            <grade>96</grade>
         </data>
         <data>
-            <fname>Izabella</fname>
-            <lname>Conrad</lname>
-            <gender>female</gender>
-            <designation>Customer Services</designation>
-            <salary>$124,345</salary>
+            <SUID>400001</SUID>
+            <name>Brantley Joseph</name>
+            <dob>1990-05-19</dob>
+            <program>MPAC</program>
+            <course>BUAN5310</course>
+            <grade>100</grade>
         </data>
         <data>
-            <fname>Marisol</fname>
-            <lname>Mcdaniel</lname>
-            <gender>male</gender>
-            <designation>Accountant</designation>
-            <salary>$159,438</salary>
+            <SUID>400002</SUID>
+            <name>Dayana Farrell</name>
+            <dob>1994-01-14</dob>
+            <program>PMBA</program>
+            <course>BUAN5260</course>
+            <grade>56</grade>
         </data>
         <data>
-            <fname>Brayden</fname>
-            <lname>Newton</lname>
-            <gender>male</gender>
-            <designation>Consultant</designation>
-            <salary>$178,628</salary>
+            <SUID>400003</SUID>
+            <name>Ace Harmon</name>
+            <dob>1991-01-31</dob>
+            <program>MPAC</program>
+            <course>ECON5100</course>
+            <grade>76</grade>
         </data>
         <data>
-            <fname>Cheyanne</fname>
-            <lname>Ball</lname>
-            <gender>female</gender>
-            <designation>Sales</designation>
-            <salary>$140,673</salary>
+            <SUID>400004</SUID>
+            <name>Kendall Sosa</name>
+            <dob>1991-03-14</dob>
+            <program>MPAC</program>
+            <course>BUAN5310</course>
+            <grade>79</grade>
         </data>
         <data>
-            <fname>Jesus</fname>
-            <lname>Rich</lname>
-            <gender>male</gender>
-            <designation>Consultant</designation>
-            <salary>$175,272</salary>
+            <SUID>400005</SUID>
+            <name>Terrence Wood</name>
+            <dob>1986-12-08</dob>
+            <program>PMBA</program>
+            <course>IS5315</course>
+            <grade>99</grade>
         </data>
         <data>
-            <fname>Mohamed</fname>
-            <lname>Wynn</lname>
-            <gender>male</gender>
-            <designation>Customer Services</designation>
-            <salary>$106,628</salary>
+            <SUID>400006</SUID>
+            <name>Amelia Bean</name>
+            <dob>1994-05-05</dob>
+            <program>MSBA</program>
+            <course>IS5315</course>
+            <grade>82</grade>
         </data>
         <data>
-            <fname>Simone</fname>
-            <lname>Griffith</lname>
-            <gender>female</gender>
-            <designation>Sales Support</designation>
-            <salary>$78,271</salary>
+            <SUID>400007</SUID>
+            <name>Sloane Nolan</name>
+            <dob>1992-09-19</dob>
+            <program>MSBA</program>
+            <course>BUAN5310</course>
+            <grade>69</grade>
         </data>
         <data>
-            <fname>Angelique</fname>
-            <lname>Gamble</lname>
-            <gender>female</gender>
-            <designation>Director</designation>
-            <salary>$102,952</salary>
+            <SUID>400008</SUID>
+            <name>Chaim Butler</name>
+            <dob>1988-03-08</dob>
+            <program>MPAC</program>
+            <course>BUAN5260</course>
+            <grade>84</grade>
         </data>
         <data>
-            <fname>Brian</fname>
-            <lname>Barr</lname>
-            <gender>male</gender>
-            <designation>Consultant</designation>
-            <salary>$78,472</salary>
+            <SUID>400009</SUID>
+            <name>Enoch Joyner</name>
+            <dob>1986-02-10</dob>
+            <program>MSF</program>
+            <course>IS5315</course>
+            <grade>54</grade>
         </data>
         <data>
-            <fname>Keenan</fname>
-            <lname>Fulton</lname>
-            <gender>female</gender>
-            <designation>Customer Services</designation>
-            <salary>$146,927</salary>
+            <SUID>400010</SUID>
+            <name>Kyson Hopper</name>
+            <dob>1994-02-03</dob>
+            <program>MPAC</program>
+            <course>ECON5310</course>
+            <grade>95</grade>
         </data>
         <data>
-            <fname>Zaria</fname>
-            <lname>Ballard</lname>
-            <gender>female</gender>
-            <designation>Sales Support</designation>
-            <salary>$52,938</salary>
+            <SUID>400011</SUID>
+            <name>William Sherman</name>
+            <dob>1991-12-17</dob>
+            <program>MPAC</program>
+            <course>MATH5170</course>
+            <grade>67</grade>
         </data>
         <data>
-            <fname>Aisha</fname>
-            <lname>English</lname>
-            <gender>male</gender>
-            <designation>Director</designation>
-            <salary>$58,702</salary>
+            <SUID>400012</SUID>
+            <name>Jenny Odom</name>
+            <dob>1989-09-29</dob>
+            <program>MPAC</program>
+            <course>ECON5310</course>
+            <grade>84</grade>
         </data>
         <data>
-            <fname>Brittany</fname>
-            <lname>Page</lname>
-            <gender>female</gender>
-            <designation>Customer Services</designation>
-            <salary>$148,313</salary>
+            <SUID>400013</SUID>
+            <name>Madilynn Schneider</name>
+            <dob>1986-10-12</dob>
+            <program>MSF</program>
+            <course>IS5305</course>
+            <grade>87</grade>
         </data>
         <data>
-            <fname>Elliot</fname>
-            <lname>Harding</lname>
-            <gender>female</gender>
-            <designation>Sales Support</designation>
-            <salary>$125,059</salary>
+            <SUID>400014</SUID>
+            <name>Jonathon Tillman</name>
+            <dob>1985-05-14</dob>
+            <program>PMBA</program>
+            <course>BUAN5210</course>
+            <grade>85</grade>
         </data>
-    </employees>
+        <data>
+            <SUID>400015</SUID>
+            <name>Eva Cameron</name>
+            <dob>1988-07-26</dob>
+            <program>MSBA</program>
+            <course>BUAN5310</course>
+            <grade>96</grade>
+        </data>
+        <data>
+            <SUID>400016</SUID>
+            <name>Joy Pace</name>
+            <dob>1993-04-07</dob>
+            <program>MSF</program>
+            <course>ECON5100</course>
+            <grade>96</grade>
+        </data>
+    </student>
